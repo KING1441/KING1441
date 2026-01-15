@@ -20,8 +20,9 @@
 
 ### 🛠️ Languages & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,bash,php,react,python,javascript,css,java,git,cpp,c,vscode,html" />
+  <img src="https://skillicons.dev/icons?i=arduino,bash,linux,php,react,python,javascript,css,java,git,cpp,c,vscode,html" />
 </p>
+
 
 ---
 

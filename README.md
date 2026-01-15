@@ -17,6 +17,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=javascript" />
   </a>
+  <a href="https://www.typescriptlang.org/download">
+  <img src="https://skillicons.dev/icons?i=typescript" />
+</a>
   <a href="https://www.php.net/downloads.php">
     <img src="https://skillicons.dev/icons?i=php" />
   </a>

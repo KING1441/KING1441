@@ -11,6 +11,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://skillicons.dev/icons?i=css" />
   </a>
+  <a href="https://sass-lang.com/install">
+    <img src="https://skillicons.dev/icons?i=sass" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=javascript" />
   </a>
@@ -21,6 +24,7 @@
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
 </p>
+
 
 ---
 

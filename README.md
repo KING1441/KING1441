@@ -3,8 +3,6 @@
 
 ---
 
-
-
 ## 🌐 Web Development
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -25,21 +23,25 @@
   <a href="https://react.dev/learn/installation">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
-    <a href="https://webpack.js.org/">
-    <img src="https://skillicons.dev/icons?i=webpack" />
-  </a>
-  <a href="https://vitejs.dev/">
-    <img src="https://skillicons.dev/icons?i=vite" />
+</p>
+
+---
+
+## 📦 Build Tools & Package Managers
+<p align="center">
+  <a href="https://nodejs.org/en/download">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
   <a href="https://www.npmjs.com/get-npm">
     <img src="https://skillicons.dev/icons?i=npm" />
   </a>
-  <a href="https://nodejs.org/en/download">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
+  <a href="https://vitejs.dev/">
+    <img src="https://skillicons.dev/icons?i=vite" />
   </a>
-
+  <a href="https://webpack.js.org/">
+    <img src="https://skillicons.dev/icons?i=webpack" />
+  </a>
 </p>
-
 
 ---
 

@@ -2,6 +2,10 @@
 <h3 align="center">Software Developer</h3>
 
 ---
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=webpack,vite,npm,nodejs" />
+</p>
+
 
 ## 🌐 Web Development
 <p align="center">

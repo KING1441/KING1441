@@ -2,9 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
 ---
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=webpack,vite,npm,nodejs" />
-</p>
+
 
 
 ## 🌐 Web Development
@@ -27,6 +25,19 @@
   <a href="https://react.dev/learn/installation">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
+    <a href="https://webpack.js.org/">
+    <img src="https://skillicons.dev/icons?i=webpack" />
+  </a>
+  <a href="https://vitejs.dev/">
+    <img src="https://skillicons.dev/icons?i=vite" />
+  </a>
+  <a href="https://www.npmjs.com/get-npm">
+    <img src="https://skillicons.dev/icons?i=npm" />
+  </a>
+  <a href="https://nodejs.org/en/download">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+
 </p>
 
 

@@ -1,3 +1,8 @@
+<h1 align="center">👑 Hi, I'm KING1441</h1>
+<h3 align="center">Software Developer</h3>
+
+---
+### 🛠️ Languages & Tools:
 <p align="center">
   <a href="https://www.arduino.cc/en/software" target="_blank">
     <img src="https://skillicons.dev/icons?i=arduino" />
